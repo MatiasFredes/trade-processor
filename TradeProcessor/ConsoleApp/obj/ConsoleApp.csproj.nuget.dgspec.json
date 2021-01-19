@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\TradeProcessor\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\TradeProcessor\\Domain.csproj"
+              "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\TradeProcessor\\Domain.csproj": {
+    "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\TradeProcessor\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\TradeProcessor\\Domain.csproj",
+        "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj",
         "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\TradeProcessor\\obj\\",
+        "outputPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

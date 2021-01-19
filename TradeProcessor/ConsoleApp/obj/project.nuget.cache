@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p+QCVkcop1y2AN7e9rN8JVl16SPyHoxRTCOIslXFhAUqV5R9Y4lHr7RWdDqTIjC2zoZlHbGpB9tmrZH8W0juyA==",
+  "dgSpecHash": "rk2/kDsUh5vl0PenQHwfWcRSo5CyGRl0+VKzLpVrO0a/zcbPoQlkYNGwi3jPWtGAWrCew02NqPNvKRGiR+Qf0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Documents\\GitHub\\AdaptiveCode\\Chapter 7 Single responsability principle\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matias\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Matias\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
