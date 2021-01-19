@@ -1,0 +1,10 @@
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\bin\Debug\netcoreapp3.1\Trades.txt
+C:\Users\Matias\Documents\GitHub\AdaptiveCode\Chapter 7 Single responsability principle\TradeProcessor\TradeProcessor\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
