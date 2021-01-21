@@ -131,17 +131,42 @@
           }
         }
       },
-      "Domain/1.0.0": {
+      "TradeProcessor.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TradeProcessor.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradeProcessor.Contracts.dll": {}
+        }
+      },
+      "TradeProcessor.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "System.Data.SqlClient": "4.8.2"
+          "System.Data.SqlClient": "4.8.2",
+          "TradeProcessor.Contracts": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Domain.dll": {}
+          "bin/placeholder/TradeProcessor.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Domain.dll": {}
+          "bin/placeholder/TradeProcessor.Domain.dll": {}
+        }
+      },
+      "TradeProcessor.Imp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.2",
+          "TradeProcessor.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TradeProcessor.Imp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TradeProcessor.Imp.dll": {}
         }
       }
     }
@@ -457,15 +482,26 @@
         "version.txt"
       ]
     },
-    "Domain/1.0.0": {
+    "TradeProcessor.Contracts/1.0.0": {
       "type": "project",
-      "path": "../TradeProcessor/Domain.csproj",
-      "msbuildProject": "../TradeProcessor/Domain.csproj"
+      "path": "../TradeProcessor.Contracts/TradeProcessor.Contracts.csproj",
+      "msbuildProject": "../TradeProcessor.Contracts/TradeProcessor.Contracts.csproj"
+    },
+    "TradeProcessor.Domain/1.0.0": {
+      "type": "project",
+      "path": "../TradeProcessor/TradeProcessor.Domain.csproj",
+      "msbuildProject": "../TradeProcessor/TradeProcessor.Domain.csproj"
+    },
+    "TradeProcessor.Imp/1.0.0": {
+      "type": "project",
+      "path": "../TradeProcessor.Imp/TradeProcessor.Imp.csproj",
+      "msbuildProject": "../TradeProcessor.Imp/TradeProcessor.Imp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Domain >= 1.0.0"
+      "TradeProcessor.Domain >= 1.0.0",
+      "TradeProcessor.Imp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -498,8 +534,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj"
+            "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor.Imp\\TradeProcessor.Imp.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor.Imp\\TradeProcessor.Imp.csproj"
+            },
+            "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\TradeProcessor.Domain.csproj": {
+              "projectPath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\TradeProcessor.Domain.csproj"
             }
           }
         }

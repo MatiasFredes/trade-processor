@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fzF+jLQkS0jhco/5o8oXmTB62aVF0juSnnVim8YBvnatRJBz+epr1IR7KvcRCW8PTAN2t88h/fN1Ny1fQx+o8Q==",
+  "dgSpecHash": "NH7BET5XYdpiTMFxQiizwjuZ3pQY6b5bD4MmsN1vq3tFVOJ8YWwxMI7EvOPoJ4vwjx9DDV8oVRBWV6ABxB6trQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Matias\\Documents\\GitHub\\trade-processor\\TradeProcessor\\TradeProcessor\\TradeProcessor.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matias\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Matias\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

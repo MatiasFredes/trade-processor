@@ -1,0 +1,12 @@
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\bin\Debug\netcoreapp3.1\TradeProcessor.Contracts.dll
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\obj\Debug\netcoreapp3.1\TradeProcessor.Imp.csprojAssemblyReference.cache
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\obj\Debug\netcoreapp3.1\TradeProcessor.Imp.AssemblyInfoInputs.cache
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\obj\Debug\netcoreapp3.1\TradeProcessor.Imp.AssemblyInfo.cs
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\obj\Debug\netcoreapp3.1\TradeProcessor.Imp.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\bin\Debug\netcoreapp3.1\TradeProcessor.Imp.deps.json
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\bin\Debug\netcoreapp3.1\TradeProcessor.Imp.dll
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\bin\Debug\netcoreapp3.1\TradeProcessor.Imp.pdb
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\bin\Debug\netcoreapp3.1\TradeProcessor.Contracts.pdb
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\obj\Debug\netcoreapp3.1\TradeProcessor.Imp.csproj.CopyComplete
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\obj\Debug\netcoreapp3.1\TradeProcessor.Imp.dll
+C:\Users\Matias\Documents\GitHub\trade-processor\TradeProcessor\TradeProcessor.Imp\obj\Debug\netcoreapp3.1\TradeProcessor.Imp.pdb

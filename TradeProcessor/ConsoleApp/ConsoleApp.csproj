@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TradeProcessor\Domain.csproj" />
+    <ProjectReference Include="..\TradeProcessor.Imp\TradeProcessor.Imp.csproj" />
+    <ProjectReference Include="..\TradeProcessor\TradeProcessor.Domain.csproj" />
   </ItemGroup>
 
 </Project>
